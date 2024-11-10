@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132109829522",
+    "project_id": "qoar-afaaf",
+    "storage_bucket": "qoar-afaaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132109829522:android:16e2ac81973f8071722d4b",
+        "android_client_info": {
+          "package_name": "com.example.coar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKCXkN3pk0d2lFz0JezE7xeJvvGIsmrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132109829522:android:79f15c8685054c65722d4b",
+        "android_client_info": {
+          "package_name": "com.example.jwellery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKCXkN3pk0d2lFz0JezE7xeJvvGIsmrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
